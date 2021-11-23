@@ -1,2 +1,2 @@
 * linguist-vendored
-*.Makefile linguist-vendored=false
+*Makefile linguist-vendored=false
